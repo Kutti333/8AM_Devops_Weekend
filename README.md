@@ -1,2 +1,2 @@
-# 8AM_Devops_Weekend
+## 8AM_Devops_Weekend
 Repository for Devops classes
